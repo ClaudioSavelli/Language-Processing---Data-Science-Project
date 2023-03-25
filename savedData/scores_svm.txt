@@ -1,0 +1,28 @@
+Risultati train-test senza aug, con dummies:
+0) index_svm: 0 parameters: {'C': 10, 'class_weight': 'balanced', 'gamma': 0.1, 'kernel': 'rbf'}:
+[0.7932148342976788, 0.7937636761487965]
+1) index_svm: 4 parameters: {'C': 100, 'class_weight': None, 'gamma': 0.1, 'kernel': 'rbf'}:
+[0.792209066918834, 0.7926695842450766]
+2) index_svm: 2 parameters: {'C': 100, 'class_weight': 'balanced', 'gamma': 0.1, 'kernel': 'rbf'}:
+[0.7911655052525465, 0.7915754923413567]
+3) index_svm: 5 parameters: {'C': 1000, 'class_weight': None, 'gamma': 0.1, 'kernel': 'rbf'}:
+[0.7903118756953859, 0.7910284463894968]
+4) index_svm: 1 parameters: {'C': 10, 'class_weight': None, 'gamma': 0.1, 'kernel': 'rbf'}:
+[0.7895169423333211, 0.7899343544857768]
+5) index_svm: 3 parameters: {'C': 1000, 'class_weight': 'balanced', 'gamma': 0.1, 'kernel': 'rbf'}:
+[0.7893110688550781, 0.7899343544857768]
+
+
+Risultati train-test senza aug, senza dummies:
+0) index_svm: 5 parameters: {'C': 1000, 'class_weight': None, 'gamma': 0.1, 'kernel': 'rbf'}:
+[0.7889616929221982, 0.7893873085339168]
+1) index_svm: 0 parameters: {'C': 10, 'class_weight': 'balanced', 'gamma': 0.1, 'kernel': 'rbf'}:
+[0.7881824686612252, 0.7888402625820569]
+2) index_svm: 2 parameters: {'C': 100, 'class_weight': 'balanced', 'gamma': 0.1, 'kernel': 'rbf'}:
+[0.7877242775316079, 0.7882932166301969]
+3) index_svm: 3 parameters: {'C': 1000, 'class_weight': 'balanced', 'gamma': 0.1, 'kernel': 'rbf'}:
+[0.7873372452544469, 0.787746170678337]
+4) index_svm: 1 parameters: {'C': 10, 'class_weight': None, 'gamma': 0.1, 'kernel': 'rbf'}:
+[0.7867602801447374, 0.787199124726477]
+5) index_svm: 4 parameters: {'C': 100, 'class_weight': None, 'gamma': 0.1, 'kernel': 'rbf'}:
+[0.7850688809144158, 0.7855579868708972]

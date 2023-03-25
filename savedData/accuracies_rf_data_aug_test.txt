@@ -1,0 +1,12 @@
+{'bootstrap': False,'criterion': 'gini','max_features': 'sqrt','n_estimators': 150} - 0.5909090909090909
+{'bootstrap': False,'criterion': 'gini','max_features': 'sqrt','n_estimators': 200} - 0.6019480519480519
+{'bootstrap': False,'criterion': 'gini','max_features': 'log2','n_estimators': 150} - 0.6
+{'bootstrap': False, 'criterion': 'gini','max_features': 'log2', 'n_estimators': 200} - 0.5993506493506493
+{'bootstrap': False,'criterion': 'entropy','max_features': 'sqrt','n_estimators': 150} - 0.5824675324675325
+{'bootstrap': False,'criterion': 'entropy','max_features': 'sqrt','n_estimators': 200} - 0.6071428571428571
+{'bootstrap': False,'criterion': 'entropy','max_features': 'log2','n_estimators': 150} - 0.5922077922077922
+{'bootstrap': False,'criterion': 'entropy','max_features': 'log2','n_estimators': 200} - 0.5987012987012987
+{'bootstrap': False,'criterion': 'log_loss','max_features': 'sqrt','n_estimators': 150} - 0.5922077922077922
+{'bootstrap': False,'criterion': 'log_loss','max_features': 'sqrt','n_estimators': 200} - 0.6077922077922078
+{'bootstrap': False,'criterion': 'log_loss','max_features': 'log2','n_estimators': 150} - 0.5967532467532467
+{'bootstrap': False,'criterion': 'log_loss','max_features': 'log2','n_estimators': 200} - 0.5889610389610389

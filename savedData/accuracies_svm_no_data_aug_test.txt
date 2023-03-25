@@ -1,0 +1,16 @@
+0) index_svm: 7 parameters: {'C': 1000.0, 'class_weight': None, 'gamma': 0.1, 'kernel': 'rbf'}:
+0.7464935064935065
+1) index_svm: 6 parameters: {'C': 100, 'class_weight': 'balanced', 'gamma': 0.1, 'kernel': 'rbf'}:
+0.7444155844155844
+2) index_svm: 3 parameters: {'C': 10000.0, 'class_weight': 'balanced', 'gamma': 'scale', 'kernel': 'rbf'}:
+0.7428571428571429
+3) index_svm: 5 parameters: {'C': 1000.0, 'class_weight': None, 'gamma': 'scale', 'kernel': 'rbf'}:
+0.7402597402597403
+4) index_svm: 4 parameters: {'C': 100, 'class_weight': None, 'gamma': 'scale', 'kernel': 'rbf'}:
+0.7381818181818182
+5) index_svm: 2 parameters: {'C': 10000.0, 'class_weight': None, 'gamma': 'scale', 'kernel': 'rbf'}:
+0.7376623376623377
+6) index_svm: 0 parameters: {'C': 100, 'class_weight': 'balanced', 'gamma': 'scale', 'kernel': 'rbf'}:
+0.7366233766233766
+7) index_svm: 1 parameters: {'C': 1000.0, 'class_weight': 'balanced', 'gamma': 'scale', 'kernel': 'rbf'}:
+0.7319480519480519

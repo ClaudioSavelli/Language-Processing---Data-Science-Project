@@ -1,0 +1,36 @@
+0) index_rf: 8 parameters: {'bootstrap': False, 'criterion': 'entropy', 'max_features': 'sqrt', 'n_estimators': 250}:
+0.5865681037610863
+1) index_rf: 13 parameters: {'bootstrap': False, 'criterion': 'log_loss', 'max_features': 'sqrt', 'n_estimators': 200}:
+0.5864381492451669
+2) index_rf: 14 parameters: {'bootstrap': False, 'criterion': 'log_loss', 'max_features': 'sqrt', 'n_estimators': 250}:
+0.585009746588694
+3) index_rf: 7 parameters: {'bootstrap': False, 'criterion': 'entropy', 'max_features': 'sqrt', 'n_estimators': 200}:
+0.5831922398589066
+4) index_rf: 12 parameters: {'bootstrap': False, 'criterion': 'log_loss', 'max_features': 'sqrt', 'n_estimators': 150}:
+0.5808540712049485
+5) index_rf: 17 parameters: {'bootstrap': False, 'criterion': 'log_loss', 'max_features': 'log2', 'n_estimators': 250}:
+0.577995071854721
+6) index_rf: 11 parameters: {'bootstrap': False, 'criterion': 'entropy', 'max_features': 'log2', 'n_estimators': 250}:
+0.5778662987434917
+7) index_rf: 1 parameters: {'bootstrap': False, 'criterion': 'gini', 'max_features': 'sqrt', 'n_estimators': 200}:
+0.5770874155084681
+8) index_rf: 6 parameters: {'bootstrap': False, 'criterion': 'entropy', 'max_features': 'sqrt', 'n_estimators': 150}:
+0.5768276752487279
+9) index_rf: 2 parameters: {'bootstrap': False, 'criterion': 'gini', 'max_features': 'sqrt', 'n_estimators': 250}:
+0.5759178248651933
+10) index_rf: 10 parameters: {'bootstrap': False, 'criterion': 'entropy', 'max_features': 'log2', 'n_estimators': 200}:
+0.5734508831000059
+11) index_rf: 16 parameters: {'bootstrap': False, 'criterion': 'log_loss', 'max_features': 'log2', 'n_estimators': 200}:
+0.5734497860813651
+12) index_rf: 0 parameters: {'bootstrap': False, 'criterion': 'gini', 'max_features': 'sqrt', 'n_estimators': 150}:
+0.5731909740681671
+13) index_rf: 15 parameters: {'bootstrap': False, 'criterion': 'log_loss', 'max_features': 'log2', 'n_estimators': 150}:
+0.5731897926634769
+14) index_rf: 5 parameters: {'bootstrap': False, 'criterion': 'gini', 'max_features': 'log2', 'n_estimators': 250}:
+0.5717612212349055
+15) index_rf: 9 parameters: {'bootstrap': False, 'criterion': 'entropy', 'max_features': 'log2', 'n_estimators': 150}:
+0.5713708513708514
+16) index_rf: 4 parameters: {'bootstrap': False, 'criterion': 'gini', 'max_features': 'log2', 'n_estimators': 200}:
+0.5699435457330194
+17) index_rf: 3 parameters: {'bootstrap': False, 'criterion': 'gini', 'max_features': 'log2', 'n_estimators': 150}:
+0.5692931824510772

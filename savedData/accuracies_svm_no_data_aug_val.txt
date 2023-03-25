@@ -1,0 +1,96 @@
+0) index_svm: 19 parameters: {'C': 100, 'class_weight': 'balanced', 'gamma': 'scale', 'kernel': 'rbf'}:
+0.7259377399728277
+1) index_svm: 31 parameters: {'C': 1000.0, 'class_weight': 'balanced', 'gamma': 'scale', 'kernel': 'rbf'}:
+0.7241198113127937
+2) index_svm: 37 parameters: {'C': 10000.0, 'class_weight': None, 'gamma': 'scale', 'kernel': 'rbf'}:
+0.7235999088630668
+3) index_svm: 43 parameters: {'C': 10000.0, 'class_weight': 'balanced', 'gamma': 'scale', 'kernel': 'rbf'}:
+0.7234708825936896
+4) index_svm: 13 parameters: {'C': 100, 'class_weight': None, 'gamma': 'scale', 'kernel': 'rbf'}:
+0.7233405061475237
+5) index_svm: 25 parameters: {'C': 1000.0, 'class_weight': None, 'gamma': 'scale', 'kernel': 'rbf'}:
+0.7215222399432927
+6) index_svm: 23 parameters: {'C': 100, 'class_weight': 'balanced', 'gamma': 0.1, 'kernel': 'rbf'}:
+0.7210017467912205
+7) index_svm: 29 parameters: {'C': 1000.0, 'class_weight': None, 'gamma': 0.1, 'kernel': 'rbf'}:
+0.7200924027239817
+8) index_svm: 11 parameters: {'C': 10, 'class_weight': 'balanced', 'gamma': 0.1, 'kernel': 'rbf'}:
+0.7197046488274558
+9) index_svm: 41 parameters: {'C': 10000.0, 'class_weight': None, 'gamma': 0.1, 'kernel': 'rbf'}:
+0.7194440647072226
+10) index_svm: 17 parameters: {'C': 100, 'class_weight': None, 'gamma': 0.1, 'kernel': 'rbf'}:
+0.7193141945773525
+11) index_svm: 47 parameters: {'C': 10000.0, 'class_weight': 'balanced', 'gamma': 0.1, 'kernel': 'rbf'}:
+0.7193131819447609
+12) index_svm: 35 parameters: {'C': 1000.0, 'class_weight': 'balanced', 'gamma': 0.1, 'kernel': 'rbf'}:
+0.7190536104571192
+13) index_svm: 5 parameters: {'C': 10, 'class_weight': None, 'gamma': 0.1, 'kernel': 'rbf'}:
+0.7169766166257394
+14) index_svm: 1 parameters: {'C': 10, 'class_weight': None, 'gamma': 'scale', 'kernel': 'rbf'}:
+0.7150276364311453
+15) index_svm: 7 parameters: {'C': 10, 'class_weight': 'balanced', 'gamma': 'scale', 'kernel': 'rbf'}:
+0.7093128444005636
+16) index_svm: 10 parameters: {'C': 10, 'class_weight': 'balanced', 'gamma': 0.1, 'kernel': 'poly'}:
+0.6812587023113339
+17) index_svm: 0 parameters: {'C': 10, 'class_weight': None, 'gamma': 'scale', 'kernel': 'poly'}:
+0.680738546703459
+18) index_svm: 18 parameters: {'C': 100, 'class_weight': 'balanced', 'gamma': 'scale', 'kernel': 'poly'}:
+0.6795703062369729
+19) index_svm: 46 parameters: {'C': 10000.0, 'class_weight': 'balanced', 'gamma': 0.1, 'kernel': 'poly'}:
+0.6784006312076488
+20) index_svm: 44 parameters: {'C': 10000.0, 'class_weight': 'balanced', 'gamma': 1, 'kernel': 'poly'}:
+0.6782699172172857
+21) index_svm: 34 parameters: {'C': 1000.0, 'class_weight': 'balanced', 'gamma': 0.1, 'kernel': 'poly'}:
+0.6782694109009898
+22) index_svm: 24 parameters: {'C': 1000.0, 'class_weight': None, 'gamma': 'scale', 'kernel': 'poly'}:
+0.6781408065618592
+23) index_svm: 32 parameters: {'C': 1000.0, 'class_weight': 'balanced', 'gamma': 1, 'kernel': 'poly'}:
+0.6781397939292676
+24) index_svm: 2 parameters: {'C': 10, 'class_weight': None, 'gamma': 1, 'kernel': 'poly'}:
+0.6776208197260829
+25) index_svm: 42 parameters: {'C': 10000.0, 'class_weight': 'balanced', 'gamma': 'scale', 'kernel': 'poly'}:
+0.6774903588938677
+26) index_svm: 40 parameters: {'C': 10000.0, 'class_weight': None, 'gamma': 0.1, 'kernel': 'poly'}:
+0.6772318000388176
+27) index_svm: 16 parameters: {'C': 100, 'class_weight': None, 'gamma': 0.1, 'kernel': 'poly'}:
+0.6771012548205531
+28) index_svm: 28 parameters: {'C': 1000.0, 'class_weight': None, 'gamma': 0.1, 'kernel': 'poly'}:
+0.6769715534627816
+29) index_svm: 6 parameters: {'C': 10, 'class_weight': 'balanced', 'gamma': 'scale', 'kernel': 'poly'}:
+0.6767117288169919
+30) index_svm: 26 parameters: {'C': 1000.0, 'class_weight': None, 'gamma': 1, 'kernel': 'poly'}:
+0.6764513134688575
+31) index_svm: 4 parameters: {'C': 10, 'class_weight': None, 'gamma': 0.1, 'kernel': 'poly'}:
+0.676322793515776
+32) index_svm: 20 parameters: {'C': 100, 'class_weight': 'balanced', 'gamma': 1, 'kernel': 'poly'}:
+0.67632110579479
+33) index_svm: 14 parameters: {'C': 100, 'class_weight': None, 'gamma': 1, 'kernel': 'poly'}:
+0.6761922482975115
+34) index_svm: 12 parameters: {'C': 100, 'class_weight': None, 'gamma': 'scale', 'kernel': 'poly'}:
+0.6761919951393637
+35) index_svm: 30 parameters: {'C': 1000.0, 'class_weight': 'balanced', 'gamma': 'scale', 'kernel': 'poly'}:
+0.6761917419812156
+36) index_svm: 38 parameters: {'C': 10000.0, 'class_weight': None, 'gamma': 1, 'kernel': 'poly'}:
+0.6759320861075248
+37) index_svm: 8 parameters: {'C': 10, 'class_weight': 'balanced', 'gamma': 1, 'kernel': 'poly'}:
+0.6756723458477845
+38) index_svm: 22 parameters: {'C': 100, 'class_weight': 'balanced', 'gamma': 0.1, 'kernel': 'poly'}:
+0.6747631705526442
+39) index_svm: 36 parameters: {'C': 10000.0, 'class_weight': None, 'gamma': 'scale', 'kernel': 'poly'}:
+0.674243183716868
+40) index_svm: 3 parameters: {'C': 10, 'class_weight': None, 'gamma': 1, 'kernel': 'rbf'}:
+0.32614701737508756
+41) index_svm: 21 parameters: {'C': 100, 'class_weight': 'balanced', 'gamma': 1, 'kernel': 'rbf'}:
+0.325887192729298
+42) index_svm: 45 parameters: {'C': 10000.0, 'class_weight': 'balanced', 'gamma': 1, 'kernel': 'rbf'}:
+0.3258869395711501
+43) index_svm: 27 parameters: {'C': 1000.0, 'class_weight': None, 'gamma': 1, 'kernel': 'rbf'}:
+0.3254974979536383
+44) index_svm: 9 parameters: {'C': 10, 'class_weight': 'balanced', 'gamma': 1, 'kernel': 'rbf'}:
+0.3253675434377189
+45) index_svm: 15 parameters: {'C': 100, 'class_weight': None, 'gamma': 1, 'kernel': 'rbf'}:
+0.3252375045357502
+46) index_svm: 39 parameters: {'C': 10000.0, 'class_weight': None, 'gamma': 1, 'kernel': 'rbf'}:
+0.3249780174341578
+47) index_svm: 33 parameters: {'C': 1000.0, 'class_weight': 'balanced', 'gamma': 1, 'kernel': 'rbf'}:
+0.32484797853218905

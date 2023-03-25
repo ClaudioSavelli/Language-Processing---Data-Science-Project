@@ -1,0 +1,15 @@
+best_param_rf_1 = {'bootstrap': False, 'criterion': 'log_loss', 'max_features': 'sqrt', 'n_estimators': 250}
+best_param_rf_2 = {'bootstrap': False, 'criterion': 'log_loss', 'max_features': 'sqrt', 'n_estimators': 200}
+best_param_rf_3 = {'bootstrap': False, 'criterion': 'log_loss', 'max_features': 'sqrt', 'n_estimators': 150}
+best_param_rf_4 = {'bootstrap': False, 'criterion': 'entropy', 'max_features': 'sqrt', 'n_estimators': 250}
+best_param_rf_5 = {'bootstrap': False, 'criterion': 'entropy', 'max_features': 'sqrt', 'n_estimators': 200}
+
+best_param_svm_1 = {'C': 100000.0, 'class_weight': 'balanced', 'gamma': 0.1, 'kernel': 'rbf'}
+best_param_svm_2 = {'C': 100, 'class_weight': 'balanced', 'gamma': 0.1, 'kernel': 'rbf'}
+best_param_svm_3 = {'C': 1000.0, 'class_weight': None, 'gamma': 0.1, 'kernel': 'rbf'}
+best_param_svm_4 = {'C': 10000.0, 'class_weight': 'balanced', 'gamma': 'scale', 'kernel': 'rbf'}
+best_param_svm_5 = {'C': 1000.0, 'class_weight': None, 'gamma': 'scale', 'kernel': 'rbf'}
+best_param_svm_6 = {'C': 100, 'class_weight': None, 'gamma': 'scale', 'kernel': 'rbf'}
+best_param_svm_7 = {'C': 10000.0, 'class_weight': None, 'gamma': 'scale', 'kernel': 'rbf'}
+best_param_svm_8 = {'C': 100, 'class_weight': 'balanced', 'gamma': 'scale', 'kernel': 'rbf'}
+best_param_svm_9 = {'C': 1000.0, 'class_weight': 'balanced', 'gamma': 'scale', 'kernel': 'rbf'}
